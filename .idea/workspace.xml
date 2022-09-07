@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4229be60-e2c9-4c10-ae4f-a9865c309d2f" name="Changes" comment="Repush last commit">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_15_57__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_15_57__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/game/GridRepoFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/game/GridRepoFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/go/character/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/ubx/poo/ubomb/go/character/Monster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/images/player_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/images/player_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/images/player_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/images/player_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/images/player_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/images/player_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/images/player_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/images/player_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/sample/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/sample/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/sample/level1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/sample/level1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/sample/level2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/sample/level2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/sample/level3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/sample/level3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/ubx/poo/ubomb/engine/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/ubx/poo/ubomb/engine/GameEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/ubx/poo/ubomb/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/ubx/poo/ubomb/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/ubx/poo/ubomb/go/character/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/ubx/poo/ubomb/go/character/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/player_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/player_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/player_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/player_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/player_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/player_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/player_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/player_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sample/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sample/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sample/level1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sample/level1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sample/level2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sample/level2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sample/level3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sample/level3.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20xv0X9n06auZd3nmAOqg9olmTO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="fr.ubx.poo.ubomb.game" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.ubx.poo.ubomb.go.decor" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ubomb21" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="run --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4229be60-e2c9-4c10-ae4f-a9865c309d2f" name="Changes" comment="" />
+      <created>1636998832555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636998832555</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding the display of all the elements (crates, bonuses, keys…) as well as the monsters and the princess. At the moment, the monsters can't walk, they don't move.">
+      <created>1637005332813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637005332813</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Création d'un Décor invisible &quot;Limit&quot; pour définir les bords du terrain et empêcher le joueur d'en sortir.">
+      <created>1637098521323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637098521323</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Simplification de code">
+      <created>1637098743313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637098743313</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Push de Directory">
+      <created>1637098945828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637098945828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First steps done.">
+      <created>1637101505648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637101505648</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Box movement done">
+      <created>1640274233556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640274233556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="monsters move at a much better pace =D">
+      <created>1640336414406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640336414406</updated>
+    </task>
+    <task id="LOCAL-00008" summary="retypo of bunch of stuff">
+      <created>1640336901555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640336901555</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Way to stop monster tp">
+      <created>1641126179552</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641126179552</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Way to prevent monsters to walk on bonuses.">
+      <created>1641127537148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641127537148</updated>
+    </task>
+    <task id="LOCAL-00011" summary="i can see ya lil bomby !">
+      <created>1641163166199</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641163166199</updated>
+    </task>
+    <task id="LOCAL-00012" summary="step on opened doors baby bomby !">
+      <created>1641163762430</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641163762430</updated>
+    </task>
+    <task id="LOCAL-00013" summary="prev doors OK. save state OK. white annoying right line OK. bombs OK.">
+      <created>1641222905879</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641222905879</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Repush last commit">
+      <created>1641223127949</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641223127949</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding the display of all the elements (crates, bonuses, keys…) as well as the monsters and the princess. At the moment, the monsters can't walk, they don't move." />
+    <MESSAGE value="Création d'un Décor invisible &quot;Limit&quot; pour définir les bords du terrain et empêcher le joueur d'en sortir." />
+    <MESSAGE value="Simplification de code" />
+    <MESSAGE value="Push de Directory" />
+    <MESSAGE value="Ajout : perte du nombre de vies en touchant un monstre.&#10;&#10;Ajout : victoire en touchant la princesse." />
+    <MESSAGE value="Player can walk on a square where there is a bonus, a key, or another&#10;character. Player loses a life when in the same case as a monster. The monster does not lose a life.&#10;&#10;The game ends with a victory if the princess is reached.&#10;&#10;If the player's life points drop to 0, the game ends in defeat" />
+    <MESSAGE value="First steps done." />
+    <MESSAGE value="Box movement done" />
+    <MESSAGE value="monsters move at a much better pace =D" />
+    <MESSAGE value="retypo of bunch of stuff" />
+    <MESSAGE value="Way to stop monster tp" />
+    <MESSAGE value="Way to prevent monsters to walk on bonuses." />
+    <MESSAGE value="i can see ya lil bomby !" />
+    <MESSAGE value="step on opened doors baby bomby !" />
+    <MESSAGE value="prev doors OK. save state OK. white annoying right line OK. bombs OK." />
+    <MESSAGE value="Repush last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repush last commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/fr/ubx/poo/ubomb/engine/GameEngine.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="fr.ubx.poo.ubomb.game.GridException" package="fr.ubx.poo.ubomb.game" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

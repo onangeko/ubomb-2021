@@ -1,0 +1,32 @@
+Premiers pas A FINIR AVANT LE 22
+
+( FINI LE 16/11/2022)
+
+//1) Ajouter l’affichage de tous les éléments (caisses, bonus, clés…) ainsi que les monstres et la princesse.
+   Pour le moment, les monstres ne savent pas marcher, ils ne bougent pas. DONE
+
+//2) Modifier le code pour que les mouvements du joueur soient limités par le cadre de la carte,
+   les éléments de décor et les caisses. DONE
+
+//3) Le joueur peut marcher sur une case où se trouve un bonus, une clé, ou un autre personnage.
+   Faire en sorte que le joueur perde une vie lorsqu’il se trouve sur la même case qu’un monstre.
+   Le monstre ne perd pas de vie. DONE
+
+//4) S’il atteint la princesse, la partie se termine par une victoire. DONE
+
+//5) Si ses points de vie du joueur tombent à 0, la partie se termine par une défaite. DONE
+
+
+
+* Gestion du panneau d’informations DONE (17/11/2021)
+* Gestion des bonus et malus DONE(17/11/2021)
+
+
+TASKS IN PROGRESS
+
+Olivier -> Déplacement des caisses
+Bjorn -> Gestion des monstres
+
+
+
+

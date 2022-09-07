@@ -1,0 +1,199 @@
+<changelist name="Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]" date="1640116464451" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 21/12/2021 20:54 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.1.1/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.1.1/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/previous-compilation-data.bin" />
+    <option name="AFTER_PATH" value="build/tmp/compileJava/previous-compilation-data.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/previous-compilation-data.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/view/ImageResource.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/view/ImageResource.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/ImageResource.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/BombRangeInc.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/Heart.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/Heart.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/Heart.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/Heart.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/fileHashes.lock" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/BombNumberDec.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombRangeDec.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombRangeDec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/BombRangeDec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.1.1/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.1.1/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/resources/main/images/limit.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/character/Monster.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/character/Monster.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/Monster.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/Bomb.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/Bomb.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/Bomb.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombRangeInc.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombRangeInc.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/BombRangeInc.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/outputFiles.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.1.1/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.1.1/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/Box.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/Box.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/Box.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/view/SpriteFactory.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/view/SpriteFactory.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/SpriteFactory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/executionHistory.lock" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/executionHistory.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/BombRangeDec.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/character/Princess.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/BombNumberInc.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/Key.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/game/Grid.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/game/Grid.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/Grid.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.1.1/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.1.1/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$1.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/GameEngine$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombNumberInc.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombNumberInc.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/BombNumberInc.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/character/Player.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/character/Player.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/Player.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/game/GridRepo.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/game/GridRepo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/GridRepo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/previous-compilation-data.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$2.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/GameEngine$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/engine/GameEngine.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/GameEngine.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/game/GridRepoSample.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/game/GridRepoSample.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/GridRepoSample.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/Key.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/Key.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/Key.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombNumberDec.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/fr/ubx/poo/ubomb/go/decor/bonus/BombNumberDec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_12_2021_20_54_[Changes]/BombNumberDec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/shelf/Uncommitted_changes_before_Update_at_16_11_2021_20_10_[Changes]/fileHashes.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
